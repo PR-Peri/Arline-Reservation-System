@@ -7,4 +7,5 @@ Admin Authentication -
 ADMIN USERNAME - ADMIN OR admin
 ADMIN PASSWORD - 1234
 
-This system contains standby mode, under admins perspectives
+This system contains standby mode, under admins perspective
+
