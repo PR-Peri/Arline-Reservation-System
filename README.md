@@ -1,11 +1,11 @@
-# PR_AIRLINES
+# AIRLINES
 Online Airline Reservation System
 
 
-Admin Authentication - 
+Admin Authentication : 
 
-ADMIN USERNAME - ADMIN OR admin
+ADMIN USERNAME - ADMIN or admin
 ADMIN PASSWORD - 1234
 
-This system contains standby mode, under admins perspective
+Database is stored in a binary text file [.txt]
 
